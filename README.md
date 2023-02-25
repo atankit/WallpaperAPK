@@ -1,1 +1,1 @@
-#Wallpaper application - Android and Firebase database
+# Wallpaper application - Android and Firebase database
